@@ -62,7 +62,7 @@
 <li>Creamos "Hola mundo" y lo subimos al repositorio</li>
 <li>Creamos README.md con detalles</li>
 <li>Hacemos un minimo de 3 commits</li>
-<img src="http://drive.google.com/uc?export=view&id=1Lw7TnwTKA1k3s_-T8mdoWy3okfS9olfJ" alt= "commits" style="width:200px;height:260px;">
+<img src="http://drive.google.com/uc?export=view&id=1Lw7TnwTKA1k3s_-T8mdoWy3okfS9olfJ" alt= "commits" style="width:300px;height:400px;">
 
 
 </td>
