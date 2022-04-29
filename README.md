@@ -61,7 +61,8 @@
 <li>Creamos primer repositorio en gitHub</li>
 <li>Creamos "Hola mundo" y lo subimos al repositorio</li>
 <li>Creamos README.md con detalles</li>
-<li>Hacemos un minimo de 3 commits<img src="https://drive.google.com/file/d/1Lw7TnwTKA1k3s_-T8mdoWy3okfS9olfJ/view?usp=sharing"></li>
+<li>Hacemos un minimo de 3 commits</li>
+<img src="http://drive.google.com/uc?export=view&id=1Lw7TnwTKA1k3s_-T8mdoWy3okfS9olfJ">
 
 
 </td>
