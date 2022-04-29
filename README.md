@@ -37,14 +37,10 @@
 <tr>
 <td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
-<tr><td colspan="6">RECURSOS A UTILIZAR:
-<ul>
-<li><a href="https://guides.github.com/">https://guides.github.com/</a></li>
-<li><a href="https://git-scm.com/book/es/v2">https://git-scm.com/book/es/v2</a></li>
-</ul>
+<tr><td colspan="6">ESTUDIANTE:  CARDENAS MARTINEZ FRANCO LUCHIANO
 </td>
 </<tr>
-<tr><td colspan="6">DOCENTES:
+<tr><td colspan="6">DOCENTE:
 <ul>
 <li>Richart Smith Escobedo Quispe (rescobedoq@unsa.edu.pe)</li>
 </ul>
