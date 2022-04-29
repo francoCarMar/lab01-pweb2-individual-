@@ -64,8 +64,8 @@
 </td>
 </tr>
 <tr><td colspan="6">II. SOLUCION DE CUESTIONARIO</td></tr>
-<tr><td colspan="6">¿Por qué Git es una herramienta importante en el curso de Programación Web 2?<p>Esta herramienta de suma importancia porque nos permite tener un sitema de control versiones, ademas de ser una gran herramienta para el trabajo colaborativo ya que permite una gestion distribuida del trabajo, siendo esto ultimo uno de los pilares en el desarrollo web</p></td></tr>
-<tr><td colspan="6">III. CONCLUSIONES</td></tr>
+<tr><td colspan="6">¿Por qué Git es una herramienta importante en el curso de Programación Web 2?<p>Esta herramienta de suma importancia porque nos permite tener un sitema de control versiones, ademas de ser una gran herramienta para el trabajo colaborativo ya que permite una gestion distribuida del trabajo, siendo esto ultimo uno de los pilares en el desarrollo web.</p></td></tr>
+<tr><td colspan="6">III. CONCLUSIONES<p>Mi conclucion sobre este trabajo individual es que me parecio muy instructivo ya que me ayudo a recordar algunos conceptos de pweb1, en cuanto a git (su uso e importancia) y por otro lado para hacer este informe tuve que recordar html, es por estos factores en conjunto que me parecio bastante ensecial empezar el curso con este laboratorio.</p></td></tr>
 </tdbody>
 </table>
 
