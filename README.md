@@ -55,7 +55,7 @@
 <tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
 </theader>
 <tdbody>
-<tr><td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS</tr></td>
+<tr><td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS</td></tr>
 <tr><td colspan="6">
 <ul>
 <li>Creamos primer repositorio en gitHub</li>
@@ -63,8 +63,9 @@
 <li>Creamos README.md con detalles</li>
 </td>
 </tr>
-<tr><td colspan="6">II. SOLUCION DE CUESTIONARIO</tr>
-<tr><td colspan="6">III. CONCLUSIONES</tr>
+<tr><td colspan="6">II. SOLUCION DE CUESTIONARIO</td></tr>
+<tr><td colspan="6">¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</td></tr>
+<tr><td colspan="6">III. CONCLUSIONES</td></tr>
 </tdbody>
 </table>
 
