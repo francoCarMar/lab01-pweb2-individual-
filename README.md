@@ -37,8 +37,8 @@
 <tr>
 <td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
 </tr>
-<tr><td colspan="3">ESTUDIANTE:  CARDENAS MARTINEZ FRANCO LUCHIANO
-</td><td colspan="2">NOTA:</td><td colspan="1">   </td>
+<tr><td colspan="4">ESTUDIANTE:  CARDENAS MARTINEZ FRANCO LUCHIANO
+</td><td colspan="1">NOTA:</td><td colspan="1">   </td>
 </<tr>
 <tr><td colspan="6">DOCENTE:
 <ul>
