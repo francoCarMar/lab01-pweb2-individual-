@@ -35,7 +35,7 @@
 <td>NÚMERO DE PRÁCTICA:</td><td>01</td><td>AÑO LECTIVO:</td><td>2022 A</td><td>NRO. SEMESTRE:</td><td>III</td>
 </tr>
 <tr>
-<td>FECHA INICIO::</td><td>25-Abr-2022</td><td>FECHA FIN:</td><td>29-Abr-2022</td><td>DURACIÓN:</td><td>04 horas</td>
+<td>FECHA PRESENTACION:</td><td>29/04/22</td>HORA DE PRESENTACION<td></td><td>6:00PM</td>
 </tr>
 <tr><td colspan="4">ESTUDIANTE:  CARDENAS MARTINEZ FRANCO LUCHIANO
 </td><td colspan="1">NOTA:</td><td colspan="1">   </td>
