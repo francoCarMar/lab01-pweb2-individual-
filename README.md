@@ -55,7 +55,7 @@
 <tr><th colspan="6">SOLUCION Y RESULTADOS</th></tr>
 </theader>
 <tdbody>
-<tr><td colspan="6">I. SOLUCION DE EJERCICIOS/PROBLEMAS</td></tr>
+<tr><td colspan="6"><b>I. SOLUCION DE EJERCICIOS/PROBLEMAS</b></td></tr>
 <tr><td colspan="6">
 <ul>
 <li>Creamos primer repositorio en gitHub</li>
@@ -67,11 +67,11 @@
 
 </td>
 </tr>
-<tr><td colspan="6">II. SOLUCIÓN DE CUESTIONARIO</td></tr>
-<tr><td colspan="6">¿Por qué Git es una herramienta importante en el curso de Programación Web 2?<p>Esta herramienta de suma importancia porque nos permite tener un sitema de control versiones, ademas de ser una gran herramienta para el trabajo colaborativo ya que permite una gestion distribuida del trabajo, siendo esto ultimo uno de los pilares en el desarrollo web.</p></td></tr>
-<tr><td colspan="6">III. CONCLUSIONES</td></tr>
+<tr><td colspan="6"><b>II. SOLUCIÓN DE CUESTIONARIO</b></td></tr>
+<tr><td colspan="6"><b>¿Por qué Git es una herramienta importante en el curso de Programación Web 2?</b><p>Esta herramienta de suma importancia porque nos permite tener un sitema de control versiones, ademas de ser una gran herramienta para el trabajo colaborativo ya que permite una gestion distribuida del trabajo, siendo esto ultimo uno de los pilares en el desarrollo web.</p></td></tr>
+<tr><td colspan="6"><b>III. CONCLUSIONES</b></td></tr>
 <tr><td colspan="6"><p>Mi conclucion sobre este trabajo individual es que en general este fue muy instructivo, ya que me ayudo a recordar algunos conceptos de pweb1, en cuanto a git (su uso e importancia) y por otro lado para hacer este informe tuve que recordar html, es por estos factores en conjunto que me parecio bastante ensecial empezar el curso con este laboratorio.</p></td></tr>
-<tr><td colspan="6">IV. RETROALIMENTACIÓN GENERAL</td></tr>
+<tr><td colspan="6"><b>IV. RETROALIMENTACIÓN GENERAL</b></td></tr>
 <tr><td colspan="6"><br><br></td></tr>
 </tdbody>
 </table>
